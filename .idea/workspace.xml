@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7c20379c-e45d-4b3d-a50a-fef4ac0eb9cc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1l6kLvqKhzbz3fjQvMFwEyfJnfh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/php-8.0.0-nts-Win32-vs16-x64/php.exe" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="PHP Script.process.php">
+    <configuration name="database.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/model/database.sql" />
+      <script-mode>FILE</script-mode>
+      <data-source id="90efc631-8112-4199-a23f-97d3aa79dbfa" namespace="schema/&quot;mysql&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="formValidation.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/controller/formValidation.js" working-dir="$PROJECT_DIR$/controller">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/view/index.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="mysqlicheck.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/view/mysqlicheck.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="process.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/controller/process.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.process.php" />
+        <item itemvalue="PHP Script.index.php" />
+        <item itemvalue="PHP Script.mysqlicheck.php" />
+        <item itemvalue="Node.js.formValidation.js" />
+        <item itemvalue="Database Script.database.sql" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c20379c-e45d-4b3d-a50a-fef4ac0eb9cc" name="Default Changelist" comment="" />
+      <created>1606924878464</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606924878464</updated>
+      <workItem from="1606924880195" duration="4532000" />
+      <workItem from="1606971340404" duration="6665000" />
+      <workItem from="1606979089790" duration="12684000" />
+      <workItem from="1606993169554" duration="7294000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="252" y="15" key="#CLI_Interpreters" timestamp="1606993156841">
+      <screen x="62" y="0" width="1218" height="720" />
+    </state>
+    <state x="252" y="15" key="#CLI_Interpreters/62.0.1218.720@62.0.1218.720" timestamp="1606993156841" />
+    <state x="111" y="201" key="#SQL_Dialects" timestamp="1606925929033">
+      <screen x="62" y="0" width="1218" height="720" />
+    </state>
+    <state x="111" y="201" key="#SQL_Dialects/62.0.1218.720@62.0.1218.720" timestamp="1606925929033" />
+    <state x="264" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606992918881">
+      <screen x="62" y="0" width="1218" height="720" />
+    </state>
+    <state x="264" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/62.0.1218.720@62.0.1218.720" timestamp="1606992918881" />
+    <state x="426" y="162" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606992746928">
+      <screen x="62" y="0" width="1218" height="720" />
+    </state>
+    <state x="426" y="162" key="#com.intellij.fileTypes.FileTypeChooser/62.0.1218.720@62.0.1218.720" timestamp="1606992746928" />
+    <state x="453" y="115" key="FileChooserDialogImpl" timestamp="1607000292835">
+      <screen x="62" y="0" width="1218" height="720" />
+    </state>
+    <state x="453" y="115" key="FileChooserDialogImpl/62.0.1218.720@62.0.1218.720" timestamp="1607000292835" />
+    <state width="1175" height="187" key="GridCell.Tab.0.bottom" timestamp="1606994338265">
+      <screen x="62" y="0" width="1218" height="720" />
+    </state>
+    <state width="1175" height="187" key="GridCell.Tab.0.bottom/62.0.1218.720@62.0.1218.720" timestamp="1606994338265" />
+    <state width="1175" height="187" key="GridCell.Tab.0.center" timestamp="1606994338265">
+      <screen x="62" y="0" width="1218" height="720" />
+    </state>
+    <state width="1175" height="187" key="GridCell.Tab.0.center/62.0.1218.720@62.0.1218.720" timestamp="1606994338265" />
+    <state width="1175" height="187" key="GridCell.Tab.0.left" timestamp="1606994338265">
+      <screen x="62" y="0" width="1218" height="720" />
+    </state>
+    <state width="1175" height="187" key="GridCell.Tab.0.left/62.0.1218.720@62.0.1218.720" timestamp="1606994338265" />
+    <state width="1175" height="187" key="GridCell.Tab.0.right" timestamp="1606994338265">
+      <screen x="62" y="0" width="1218" height="720" />
+    </state>
+    <state width="1175" height="187" key="GridCell.Tab.0.right/62.0.1218.720@62.0.1218.720" timestamp="1606994338265" />
+    <state x="173" y="5" key="SettingsEditor" timestamp="1606993157936">
+      <screen x="62" y="0" width="1218" height="720" />
+    </state>
+    <state x="173" y="5" key="SettingsEditor/62.0.1218.720@62.0.1218.720" timestamp="1606993157936" />
+    <state x="328" y="161" key="run.anything.popup" timestamp="1606976507266">
+      <screen x="62" y="0" width="1218" height="720" />
+    </state>
+    <state x="328" y="161" key="run.anything.popup/62.0.1218.720@62.0.1218.720" timestamp="1606976507266" />
+    <state x="334" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1606997590938">
+      <screen x="62" y="0" width="1218" height="720" />
+    </state>
+    <state x="334" y="41" width="672" height="678" key="search.everywhere.popup/62.0.1218.720@62.0.1218.720" timestamp="1606997590938" />
+    <state x="394" y="272" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1606978558218">
+      <screen x="62" y="0" width="1218" height="720" />
+    </state>
+    <state x="394" y="272" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/62.0.1218.720@62.0.1218.720" timestamp="1606978558218" />
+  </component>
+</project>
