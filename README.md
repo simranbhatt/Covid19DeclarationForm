@@ -1,0 +1,2 @@
+# Covid19DeclarationForm
+This easy-to-use Covid-19 declaration form takes in a person's information (name, age, email, and information about their health, contacts, and movements) and saves it to a database categorized into tables of High Risk and Low Risk individuals. The risk assessment is based on whether or not they are experiencing possible Covid-19 symptoms or have interacted with others who may be Covid positive. The form is built using HTML and CSS and validated using JavaScript, while the data are processed with PHP and saved to a MySQL database.
