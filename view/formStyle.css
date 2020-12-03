@@ -1,0 +1,79 @@
+body {
+    padding: 30px;
+    text-align: center;
+}
+
+h2 {
+    font-family: Arial, sans-serif;
+    color: darkslategrey;
+}
+
+form {
+    display: inline-block;
+    resize: both;
+    background-color: #F4F0DB;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    width: 50%;
+    padding: 40px 0px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+*:focus { /* to prevent black outline appearing on the current form field being filled */
+    outline: none;
+}
+
+label, p { /*styling text labels/questions in the form*/
+    font-family: Arial, sans-serif;
+    font-kerning: auto;
+    text-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+input { /*styling the input form fields */
+    display: inline-block;
+    border: none;
+    width: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 5px;
+    font-family: Arial, sans-serif;
+    border-radius: 3px;
+}
+
+input[type = text], input[type = number], input[type = email] {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    width: 250px;
+}
+
+textarea { /*styling travel details box*/
+    display: inline-block;
+    border: none;
+    width: 80%;
+    height: 70px;
+    resize: none;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    font-family: Arial, sans-serif;
+    border-radius: 3px;
+}
+
+input[type = submit] { /* styling the Submit button */
+    width: 30%;
+    margin: auto;
+    background-color: darkslategrey;
+    padding: 5px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    font-weight: bold;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    cursor: pointer;
+}
+
