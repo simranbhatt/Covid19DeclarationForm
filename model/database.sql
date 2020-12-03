@@ -1,0 +1,25 @@
+CREATE DATABASE VisitorDB;
+
+USE VisitorDB;
+
+CREATE TABLE LowRisk (
+date VARCHAR(20) NOT NULL,
+name VARCHAR(100) NOT NULL,
+age INT,
+email NVARCHAR(320) NOT NULL,
+reason VARCHAR(10) NOT NULL,
+CovidTest VARCHAR(3) NOT NULL
+);
+
+CREATE TABLE HighRisk (
+date VARCHAR(20) NOT NULL,
+name VARCHAR(100) NOT NULL,
+age INT,
+email NVARCHAR(320) NOT NULL,
+reason VARCHAR(10) NOT NULL,
+CovidTest VARCHAR(3) NOT NULL,
+Symptoms VARCHAR(100),
+ContactWithSymptoms VARCHAR(3) NOT NULL,
+ContactWithCovPositive VARCHAR(3) NOT NULL,
+Travel VARCHAR(500)
+);
